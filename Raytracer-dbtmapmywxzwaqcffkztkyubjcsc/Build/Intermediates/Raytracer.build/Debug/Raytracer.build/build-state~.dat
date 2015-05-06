@@ -1,0 +1,900 @@
+TRaytracer
+v6
+r1
+cCheck dependencies
+cCompileC Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/main.o /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Color.o /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Color.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Parse.o /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/KDTree.o /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/KDTree.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/StdDefs.o /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/StdDefs.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Image.o /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Image.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Products/Debug/Raytracer normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c00000000530295C100000000000000AA
+t1392678337
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000533B0CC6000000000000044C
+t1396378822
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533B0CC600000000000001DE
+t1396378822
+s478
+
+N/Library/Frameworks/libpng15.framework/libpng15
+c000000004E1D22A1000000000005A22C
+t1310532257
+s369196
+
+N/System/Library/Frameworks/GLUT.framework/GLUT
+c000000005316E09600000000000F71B0
+t1394008214
+s1012144
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000005316E000000000000002C960
+t1394008064
+s182624
+
+N/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Color.cpp
+c000000005338C8180000000000000F9D
+t1396230168
+s3997
+
+N/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Image.cpp
+c000000005325E55500000000000008CE
+t1394992469
+s2254
+
+N/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/KDTree.cpp
+c000000005329C84D0000000000001B58
+t1395247181
+s7000
+
+N/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.cpp
+c00000000533B182500000000000072D8
+t1396381733
+s29400
+
+N/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Color.o
+t1396396899
+s92080
+
+N/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Image.o
+t1396396899
+s89480
+
+N/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/KDTree.o
+t1396396899
+s397692
+
+N/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Parse.o
+t1396396901
+s4160168
+
+N/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Raytracer.LinkFileList
+c00000000533B53620000000000000458
+t1396396898
+s1112
+
+N/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/StdDefs.o
+t1396396899
+s2660
+
+N/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/main.o
+t1396396900
+s1488772
+
+N/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Products/Debug/Raytracer
+t2
+s0
+
+N/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/StdDefs.cpp
+c0000000052FD8809000000000000006C
+t1392347145
+s108
+
+N/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp
+c00000000533B4F970000000000002AFE
+t1396395927
+s11006
+
+CBuild AST from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Color.cpp
+r0
+
+CBuild AST from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Image.cpp
+r0
+
+CBuild AST from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/KDTree.cpp
+r0
+
+CBuild AST from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.cpp
+r0
+
+CBuild AST from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/StdDefs.cpp
+r0
+
+CBuild AST from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesed9cd2e28aebb841^58add8e28aebb841^---0#1#1#--18"Check dependencies36"949C33DA-5BB6-43EE-B1AF-6891085CB6C7-
+
+CCompileC Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Color.o /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Color.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s418089698.847182
+e418089699.311287
+r1
+xCompileC
+xRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Color.o
+x/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Color.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Color.cpp
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Color.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Color.cpp207"CompileC Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Color.o Color.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler40fcd8e28aebb841^5bb14fe38aebb841^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Color.cpp0000000000000000^5444"CompileC Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Color.o Color.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Raytracer-generated-files.hmap -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Raytracer-own-target-headers.hmap -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Raytracer-all-target-headers.hmap -iquote /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Raytracer-project-headers.hmap -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Products/Debug/include -I. -IEigen -Ilpng169 -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc -IEigen/src -Ilpng169/contrib -Ilpng169/projects -Ilpng169/scripts -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Index -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs -IEigen/src/Cholesky -IEigen/src/Core -IEigen/src/Eigen2Support -IEigen/src/Eigenvalues -IEigen/src/Geometry -IEigen/src/Householder -IEigen/src/Jacobi -IEigen/src/LU -IEigen/src/misc -IEigen/src/plugins -IEigen/src/QR -IEigen/src/Sparse -IEigen/src/StlSupport -IEigen/src/SVD -Ilpng169/contrib/conftest -Ilpng169/contrib/examples -Ilpng169/contrib/gregbook -Ilpng169/contrib/libtests -Ilpng169/contrib/pngminim -Ilpng169/contrib/pngminus -Ilpng169/contrib/pngsuite -Ilpng169/contrib/tools -Ilpng169/contrib/visupng -Ilpng169/projects/owatcom -Ilpng169/projects/visualc71 -Ilpng169/projects/vstudio -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Index/Debug -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Build -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Debug -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/GPUDebuggerLog -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Install -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Issues -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/SCM -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Test -IEigen/src/Core/arch -IEigen/src/Core/products -IEigen/src/Core/util -IEigen/src/Eigen2Support/Geometry -IEigen/src/Geometry/arch -IEigen/src/LU/arch -Ilpng169/contrib/pngminim/decoder -Ilpng169/contrib/pngminim/encoder -Ilpng169/contrib/pngminim/preader -Ilpng169/projects/vstudio/libpng -Ilpng169/projects/vstudio/pnglibconf -Ilpng169/projects/vstudio/pngstest -Ilpng169/projects/vstudio/pngtest -Ilpng169/projects/vstudio/pngunknown -Ilpng169/projects/vstudio/pngvalid -Ilpng169/projects/vstudio/zlib -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Index/Debug/macosx10.9-x86_64 -IEigen/src/Core/arch/AltiVec -IEigen/src/Core/arch/Default -IEigen/src/Core/arch/NEON -IEigen/src/Core/arch/SSE -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Index/Debug/macosx10.9-x86_64/Raytracer.xcindex -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/DerivedSources/x86_64 -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/DerivedSources -F/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Products/Debug -F/Library/Frameworks -MMD -MT dependencies -MF /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Color.d --serialize-diagnostics /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Color.dia -c /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Color.cpp -o /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Color.o36"7016173F-15A5-438F-BFBE-4E92BF02D90D-
+bDBD94B29-2640-4F8A-A0BE-0F66A0290855
+
+CCompileC Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Image.o /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Image.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s418089698.848582
+e418089699.348932
+r1
+xCompileC
+xRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Image.o
+x/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Image.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Image.cpp
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Image.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Color.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/PNGhelp.h
+d/Library/Frameworks/libpng.framework/Headers/png.h
+d/Library/Frameworks/libpng.framework/Headers/pnglibconf.h
+d/Library/Frameworks/libpng.framework/Headers/pngconf.h
+o/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Image.cpp:42:7: warning: unused variable 'rgb' [-Wunused-variable]
+o        bool rgb = color_type == PNG_COLOR_TYPE_RGB;
+o             ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Image.cpp207"CompileC Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Image.o Image.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler054fd9e28aebb841^055359e38aebb841^-214"/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Image.cpp:42:7: warning: unused variable 'rgb' [-Wunused-variable]        bool rgb = color_type == PNG_COLOR_TYPE_RGB;             ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@21"Unused variable 'rgb'-418089699#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@74"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Image.cpp0000000000000000^41#6#41#6#974#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@74"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Image.cpp0000000000000000^5444"CompileC Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Image.o Image.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Raytracer-generated-files.hmap -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Raytracer-own-target-headers.hmap -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Raytracer-all-target-headers.hmap -iquote /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Raytracer-project-headers.hmap -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Products/Debug/include -I. -IEigen -Ilpng169 -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc -IEigen/src -Ilpng169/contrib -Ilpng169/projects -Ilpng169/scripts -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Index -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs -IEigen/src/Cholesky -IEigen/src/Core -IEigen/src/Eigen2Support -IEigen/src/Eigenvalues -IEigen/src/Geometry -IEigen/src/Householder -IEigen/src/Jacobi -IEigen/src/LU -IEigen/src/misc -IEigen/src/plugins -IEigen/src/QR -IEigen/src/Sparse -IEigen/src/StlSupport -IEigen/src/SVD -Ilpng169/contrib/conftest -Ilpng169/contrib/examples -Ilpng169/contrib/gregbook -Ilpng169/contrib/libtests -Ilpng169/contrib/pngminim -Ilpng169/contrib/pngminus -Ilpng169/contrib/pngsuite -Ilpng169/contrib/tools -Ilpng169/contrib/visupng -Ilpng169/projects/owatcom -Ilpng169/projects/visualc71 -Ilpng169/projects/vstudio -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Index/Debug -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Build -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Debug -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/GPUDebuggerLog -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Install -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Issues -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/SCM -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Test -IEigen/src/Core/arch -IEigen/src/Core/products -IEigen/src/Core/util -IEigen/src/Eigen2Support/Geometry -IEigen/src/Geometry/arch -IEigen/src/LU/arch -Ilpng169/contrib/pngminim/decoder -Ilpng169/contrib/pngminim/encoder -Ilpng169/contrib/pngminim/preader -Ilpng169/projects/vstudio/libpng -Ilpng169/projects/vstudio/pnglibconf -Ilpng169/projects/vstudio/pngstest -Ilpng169/projects/vstudio/pngtest -Ilpng169/projects/vstudio/pngunknown -Ilpng169/projects/vstudio/pngvalid -Ilpng169/projects/vstudio/zlib -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Index/Debug/macosx10.9-x86_64 -IEigen/src/Core/arch/AltiVec -IEigen/src/Core/arch/Default -IEigen/src/Core/arch/NEON -IEigen/src/Core/arch/SSE -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Index/Debug/macosx10.9-x86_64/Raytracer.xcindex -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/DerivedSources/x86_64 -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/DerivedSources -F/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Products/Debug -F/Library/Frameworks -MMD -MT dependencies -MF /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Image.d --serialize-diagnostics /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Image.dia -c /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Image.cpp -o /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Image.o36"F58187A3-CAB1-4124-90C7-98588DA5408A-
+bDBD94B29-2640-4F8A-A0BE-0F66A0290855
+
+CCompileC Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/KDTree.o /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/KDTree.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s418089698.847922
+e418089699.891568
+r1
+xCompileC
+xRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/KDTree.o
+x/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/KDTree.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/KDTree.cpp
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/KDTree.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/Dense
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/Core
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/DisableStupidWarnings.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/Macros.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/Constants.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/ForwardDeclarations.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/Meta.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/XprHelper.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/StaticAssert.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/Memory.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/NumTraits.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/MathFunctions.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/GenericPacketMath.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/arch/SSE/PacketMath.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/arch/SSE/MathFunctions.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/arch/SSE/Complex.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/arch/Default/Settings.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Functors.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/DenseCoeffsBase.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/DenseBase.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/plugins/BlockMethods.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/MatrixBase.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/plugins/CommonCwiseUnaryOps.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/plugins/CommonCwiseBinaryOps.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/plugins/MatrixCwiseUnaryOps.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/plugins/MatrixCwiseBinaryOps.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/EigenBase.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Assign.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/BlasUtil.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/DenseStorage.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/NestByValue.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/ForceAlignedAccess.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/ReturnByValue.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/NoAlias.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/PlainObjectBase.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Matrix.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Array.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/CwiseBinaryOp.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/CwiseUnaryOp.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/CwiseNullaryOp.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/CwiseUnaryView.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/SelfCwiseBinaryOp.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Dot.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/StableNorm.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/MapBase.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Stride.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Map.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Block.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/VectorBlock.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Transpose.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/DiagonalMatrix.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Diagonal.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/DiagonalProduct.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/PermutationMatrix.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Transpositions.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Redux.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Visitor.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Fuzzy.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/IO.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Swap.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/CommaInitializer.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Flagged.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/ProductBase.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Product.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/TriangularMatrix.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/SelfAdjointView.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/SolveTriangular.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/Parallelizer.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/CoeffBasedProduct.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/GeneralBlockPanelKernel.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/GeneralMatrixVector.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/GeneralMatrixMatrix.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/GeneralMatrixMatrixTriangular.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/SelfadjointMatrixVector.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/SelfadjointMatrixMatrix.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/SelfadjointProduct.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/SelfadjointRank2Update.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/TriangularMatrixVector.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/TriangularMatrixMatrix.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/TriangularSolverMatrix.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/TriangularSolverVector.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/BandMatrix.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/BooleanRedux.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Select.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/VectorwiseOp.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Random.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Replicate.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Reverse.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/ArrayBase.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/plugins/ArrayCwiseUnaryOps.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/plugins/ArrayCwiseBinaryOps.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/ArrayWrapper.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/GlobalFunctions.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/ReenableStupidWarnings.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/LU
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/misc/Solve.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/misc/Kernel.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/misc/Image.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/LU/FullPivLU.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/LU/PartialPivLU.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/LU/Determinant.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/LU/Inverse.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/LU/arch/Inverse_SSE.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/Cholesky
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Cholesky/LLT.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Cholesky/LDLT.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/QR
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/Jacobi
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Jacobi/Jacobi.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/Householder
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Householder/Householder.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Householder/HouseholderSequence.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Householder/BlockHouseholder.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/QR/HouseholderQR.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/QR/FullPivHouseholderQR.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/QR/ColPivHouseholderQR.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/SVD
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/SVD/JacobiSVD.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/SVD/UpperBidiagonalization.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/Geometry
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/OrthoMethods.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/EulerAngles.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/Homogeneous.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/RotationBase.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/Rotation2D.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/Quaternion.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/AngleAxis.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/Transform.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/Translation.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/Scaling.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/Hyperplane.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/ParametrizedLine.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/AlignedBox.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/Umeyama.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/arch/Geometry_SSE.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/Eigenvalues
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/Tridiagonalization.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/RealSchur.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/EigenvaluesCommon.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/HessenbergDecomposition.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/EigenSolver.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/SelfAdjointEigenSolver.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/GeneralizedSelfAdjointEigenSolver.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/ComplexSchur.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/ComplexEigenSolver.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/MatrixBaseEigenvalues.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Primitive.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Box.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Ray.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/StdDefs.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Shader.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Color.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Texture.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/KDTree.cpp209"CompileC Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/KDTree.o KDTree.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler4b20d9e28aebb841^0c3fe4e38aebb841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/KDTree.cpp0000000000000000^5450"CompileC Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/KDTree.o KDTree.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Raytracer-generated-files.hmap -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Raytracer-own-target-headers.hmap -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Raytracer-all-target-headers.hmap -iquote /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Raytracer-project-headers.hmap -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Products/Debug/include -I. -IEigen -Ilpng169 -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc -IEigen/src -Ilpng169/contrib -Ilpng169/projects -Ilpng169/scripts -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Index -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs -IEigen/src/Cholesky -IEigen/src/Core -IEigen/src/Eigen2Support -IEigen/src/Eigenvalues -IEigen/src/Geometry -IEigen/src/Householder -IEigen/src/Jacobi -IEigen/src/LU -IEigen/src/misc -IEigen/src/plugins -IEigen/src/QR -IEigen/src/Sparse -IEigen/src/StlSupport -IEigen/src/SVD -Ilpng169/contrib/conftest -Ilpng169/contrib/examples -Ilpng169/contrib/gregbook -Ilpng169/contrib/libtests -Ilpng169/contrib/pngminim -Ilpng169/contrib/pngminus -Ilpng169/contrib/pngsuite -Ilpng169/contrib/tools -Ilpng169/contrib/visupng -Ilpng169/projects/owatcom -Ilpng169/projects/visualc71 -Ilpng169/projects/vstudio -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Index/Debug -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Build -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Debug -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/GPUDebuggerLog -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Install -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Issues -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/SCM -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Test -IEigen/src/Core/arch -IEigen/src/Core/products -IEigen/src/Core/util -IEigen/src/Eigen2Support/Geometry -IEigen/src/Geometry/arch -IEigen/src/LU/arch -Ilpng169/contrib/pngminim/decoder -Ilpng169/contrib/pngminim/encoder -Ilpng169/contrib/pngminim/preader -Ilpng169/projects/vstudio/libpng -Ilpng169/projects/vstudio/pnglibconf -Ilpng169/projects/vstudio/pngstest -Ilpng169/projects/vstudio/pngtest -Ilpng169/projects/vstudio/pngunknown -Ilpng169/projects/vstudio/pngvalid -Ilpng169/projects/vstudio/zlib -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Index/Debug/macosx10.9-x86_64 -IEigen/src/Core/arch/AltiVec -IEigen/src/Core/arch/Default -IEigen/src/Core/arch/NEON -IEigen/src/Core/arch/SSE -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Index/Debug/macosx10.9-x86_64/Raytracer.xcindex -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/DerivedSources/x86_64 -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/DerivedSources -F/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Products/Debug -F/Library/Frameworks -MMD -MT dependencies -MF /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/KDTree.d --serialize-diagnostics /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/KDTree.dia -c /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/KDTree.cpp -o /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/KDTree.o36"D5DA2714-597D-493A-8DB3-3526D8FD14FB-
+bDBD94B29-2640-4F8A-A0BE-0F66A0290855
+
+CCompileC Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Parse.o /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s418089698.847585
+e418089701.016488
+r1
+xCompileC
+xRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Parse.o
+x/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.cpp
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Scene.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/Dense
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/Core
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/DisableStupidWarnings.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/Macros.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/Constants.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/ForwardDeclarations.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/Meta.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/XprHelper.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/StaticAssert.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/Memory.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/NumTraits.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/MathFunctions.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/GenericPacketMath.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/arch/SSE/PacketMath.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/arch/SSE/MathFunctions.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/arch/SSE/Complex.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/arch/Default/Settings.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Functors.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/DenseCoeffsBase.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/DenseBase.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/plugins/BlockMethods.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/MatrixBase.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/plugins/CommonCwiseUnaryOps.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/plugins/CommonCwiseBinaryOps.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/plugins/MatrixCwiseUnaryOps.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/plugins/MatrixCwiseBinaryOps.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/EigenBase.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Assign.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/BlasUtil.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/DenseStorage.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/NestByValue.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/ForceAlignedAccess.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/ReturnByValue.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/NoAlias.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/PlainObjectBase.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Matrix.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Array.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/CwiseBinaryOp.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/CwiseUnaryOp.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/CwiseNullaryOp.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/CwiseUnaryView.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/SelfCwiseBinaryOp.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Dot.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/StableNorm.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/MapBase.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Stride.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Map.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Block.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/VectorBlock.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Transpose.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/DiagonalMatrix.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Diagonal.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/DiagonalProduct.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/PermutationMatrix.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Transpositions.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Redux.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Visitor.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Fuzzy.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/IO.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Swap.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/CommaInitializer.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Flagged.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/ProductBase.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Product.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/TriangularMatrix.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/SelfAdjointView.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/SolveTriangular.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/Parallelizer.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/CoeffBasedProduct.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/GeneralBlockPanelKernel.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/GeneralMatrixVector.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/GeneralMatrixMatrix.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/GeneralMatrixMatrixTriangular.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/SelfadjointMatrixVector.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/SelfadjointMatrixMatrix.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/SelfadjointProduct.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/SelfadjointRank2Update.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/TriangularMatrixVector.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/TriangularMatrixMatrix.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/TriangularSolverMatrix.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/TriangularSolverVector.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/BandMatrix.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/BooleanRedux.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Select.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/VectorwiseOp.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Random.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Replicate.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Reverse.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/ArrayBase.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/plugins/ArrayCwiseUnaryOps.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/plugins/ArrayCwiseBinaryOps.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/ArrayWrapper.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/GlobalFunctions.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/ReenableStupidWarnings.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/LU
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/misc/Solve.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/misc/Kernel.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/misc/Image.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/LU/FullPivLU.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/LU/PartialPivLU.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/LU/Determinant.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/LU/Inverse.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/LU/arch/Inverse_SSE.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/Cholesky
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Cholesky/LLT.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Cholesky/LDLT.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/QR
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/Jacobi
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Jacobi/Jacobi.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/Householder
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Householder/Householder.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Householder/HouseholderSequence.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Householder/BlockHouseholder.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/QR/HouseholderQR.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/QR/FullPivHouseholderQR.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/QR/ColPivHouseholderQR.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/SVD
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/SVD/JacobiSVD.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/SVD/UpperBidiagonalization.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/Geometry
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/OrthoMethods.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/EulerAngles.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/Homogeneous.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/RotationBase.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/Rotation2D.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/Quaternion.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/AngleAxis.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/Transform.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/Translation.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/Scaling.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/Hyperplane.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/ParametrizedLine.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/AlignedBox.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/Umeyama.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/arch/Geometry_SSE.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/Eigenvalues
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/Tridiagonalization.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/RealSchur.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/EigenvaluesCommon.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/HessenbergDecomposition.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/EigenSolver.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/SelfAdjointEigenSolver.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/GeneralizedSelfAdjointEigenSolver.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/ComplexSchur.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/ComplexEigenSolver.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/MatrixBaseEigenvalues.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Timer.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Camera.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Color.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Ray.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/StdDefs.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Object.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/KDTree.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Primitive.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Box.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Shader.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Texture.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Triangle.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Light.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Image.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Texture2D.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Bump.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Normal.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/FlatShader.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Environment.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Phong.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Lambert.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Gooch.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/TexturePhong.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Plasma.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Perlin3D.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Cloud.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Mirror.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Sphere.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Plane.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Ellipsoid.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Cone.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/VCloud.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/PointLight.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/AreaLight.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/DirectionalLight.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/SpotLight.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Projection.h
+oIn file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.cpp:10:
+oIn file included from ./Parse.h:38:
+o./Cone.h:64:20: warning: expression result unused [-Wunused-value]
+o                float a = n.dot((0,0,-1) * n);
+o                                 ^
+o./Cone.h:65:24: warning: expression result unused [-Wunused-value]
+o                float b = 2 * P.dot((0,0,-1) * n);
+o                                     ^
+o./Cone.h:66:20: warning: expression result unused [-Wunused-value]
+o                float c = P.dot((0,0,-1) * P);
+o                                 ^
+o3 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.cpp207"CompileC Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Parse.o Parse.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler300fd9e28aebb841^3b3804e58aebb841^-607"In file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.cpp:10:In file included from ./Parse.h:38:./Cone.h:64:20: warning: expression result unused [-Wunused-value]                float a = n.dot((0,0,-1) * n);                                 ^./Cone.h:65:24: warning: expression result unused [-Wunused-value]                float b = 2 * P.dot((0,0,-1) * n);                                     ^./Cone.h:66:20: warning: expression result unused [-Wunused-value]                float c = P.dot((0,0,-1) * P);                                 ^3 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@24"Expression result unused-418089701#18446744073709551615#0#2(2@93"In file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.cpp:10:-418089701#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@74"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.cpp0000000000000000^9#9#9#9#143#0#21"Apple LLVM 5.0 Notice--2@35"In file included from ./Parse.h:38:-418089701#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@72"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.h0000000000000000^37#9#37#9#682#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@71"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Cone.h0000000000000000^63#19#63#19#1149#0#19"Unused Entity Issue1(3@71"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Cone.h0000000000000000^63#19#63#20#1149#0#-2@24"Expression result unused-418089701#18446744073709551615#0#2(2@93"In file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.cpp:10:-418089701#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@74"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.cpp0000000000000000^9#9#9#9#143#0#21"Apple LLVM 5.0 Notice--2@35"In file included from ./Parse.h:38:-418089701#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@72"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.h0000000000000000^37#9#37#9#682#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@71"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Cone.h0000000000000000^64#23#64#23#1186#0#19"Unused Entity Issue1(3@71"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Cone.h0000000000000000^64#23#64#24#1186#0#-2@24"Expression result unused-418089701#18446744073709551615#0#2(2@93"In file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.cpp:10:-418089701#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@74"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.cpp0000000000000000^9#9#9#9#143#0#21"Apple LLVM 5.0 Notice--2@35"In file included from ./Parse.h:38:-418089701#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@72"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.h0000000000000000^37#9#37#9#682#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@71"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Cone.h0000000000000000^65#19#65#19#1219#0#19"Unused Entity Issue1(3@71"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Cone.h0000000000000000^65#19#65#20#1219#0#-0#0#1#-19%DVTDocumentLocation4@74"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.cpp0000000000000000^5444"CompileC Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Parse.o Parse.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Raytracer-generated-files.hmap -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Raytracer-own-target-headers.hmap -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Raytracer-all-target-headers.hmap -iquote /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Raytracer-project-headers.hmap -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Products/Debug/include -I. -IEigen -Ilpng169 -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc -IEigen/src -Ilpng169/contrib -Ilpng169/projects -Ilpng169/scripts -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Index -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs -IEigen/src/Cholesky -IEigen/src/Core -IEigen/src/Eigen2Support -IEigen/src/Eigenvalues -IEigen/src/Geometry -IEigen/src/Householder -IEigen/src/Jacobi -IEigen/src/LU -IEigen/src/misc -IEigen/src/plugins -IEigen/src/QR -IEigen/src/Sparse -IEigen/src/StlSupport -IEigen/src/SVD -Ilpng169/contrib/conftest -Ilpng169/contrib/examples -Ilpng169/contrib/gregbook -Ilpng169/contrib/libtests -Ilpng169/contrib/pngminim -Ilpng169/contrib/pngminus -Ilpng169/contrib/pngsuite -Ilpng169/contrib/tools -Ilpng169/contrib/visupng -Ilpng169/projects/owatcom -Ilpng169/projects/visualc71 -Ilpng169/projects/vstudio -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Index/Debug -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Build -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Debug -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/GPUDebuggerLog -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Install -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Issues -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/SCM -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Test -IEigen/src/Core/arch -IEigen/src/Core/products -IEigen/src/Core/util -IEigen/src/Eigen2Support/Geometry -IEigen/src/Geometry/arch -IEigen/src/LU/arch -Ilpng169/contrib/pngminim/decoder -Ilpng169/contrib/pngminim/encoder -Ilpng169/contrib/pngminim/preader -Ilpng169/projects/vstudio/libpng -Ilpng169/projects/vstudio/pnglibconf -Ilpng169/projects/vstudio/pngstest -Ilpng169/projects/vstudio/pngtest -Ilpng169/projects/vstudio/pngunknown -Ilpng169/projects/vstudio/pngvalid -Ilpng169/projects/vstudio/zlib -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Index/Debug/macosx10.9-x86_64 -IEigen/src/Core/arch/AltiVec -IEigen/src/Core/arch/Default -IEigen/src/Core/arch/NEON -IEigen/src/Core/arch/SSE -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Index/Debug/macosx10.9-x86_64/Raytracer.xcindex -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/DerivedSources/x86_64 -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/DerivedSources -F/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Products/Debug -F/Library/Frameworks -MMD -MT dependencies -MF /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Parse.d --serialize-diagnostics /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Parse.dia -c /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.cpp -o /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Parse.o36"89076CB4-EA7B-4E1C-82AB-A526B823E205-
+bDBD94B29-2640-4F8A-A0BE-0F66A0290855
+
+CCompileC Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/StdDefs.o /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/StdDefs.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s418089698.848222
+e418089699.121072
+r1
+xCompileC
+xRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/StdDefs.o
+x/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/StdDefs.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/StdDefs.cpp
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/StdDefs.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/StdDefs.cpp211"CompileC Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/StdDefs.o StdDefs.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerb536d9e28aebb841^19ff1ee38aebb841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/StdDefs.cpp0000000000000000^5456"CompileC Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/StdDefs.o StdDefs.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Raytracer-generated-files.hmap -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Raytracer-own-target-headers.hmap -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Raytracer-all-target-headers.hmap -iquote /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Raytracer-project-headers.hmap -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Products/Debug/include -I. -IEigen -Ilpng169 -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc -IEigen/src -Ilpng169/contrib -Ilpng169/projects -Ilpng169/scripts -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Index -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs -IEigen/src/Cholesky -IEigen/src/Core -IEigen/src/Eigen2Support -IEigen/src/Eigenvalues -IEigen/src/Geometry -IEigen/src/Householder -IEigen/src/Jacobi -IEigen/src/LU -IEigen/src/misc -IEigen/src/plugins -IEigen/src/QR -IEigen/src/Sparse -IEigen/src/StlSupport -IEigen/src/SVD -Ilpng169/contrib/conftest -Ilpng169/contrib/examples -Ilpng169/contrib/gregbook -Ilpng169/contrib/libtests -Ilpng169/contrib/pngminim -Ilpng169/contrib/pngminus -Ilpng169/contrib/pngsuite -Ilpng169/contrib/tools -Ilpng169/contrib/visupng -Ilpng169/projects/owatcom -Ilpng169/projects/visualc71 -Ilpng169/projects/vstudio -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Index/Debug -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Build -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Debug -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/GPUDebuggerLog -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Install -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Issues -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/SCM -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Test -IEigen/src/Core/arch -IEigen/src/Core/products -IEigen/src/Core/util -IEigen/src/Eigen2Support/Geometry -IEigen/src/Geometry/arch -IEigen/src/LU/arch -Ilpng169/contrib/pngminim/decoder -Ilpng169/contrib/pngminim/encoder -Ilpng169/contrib/pngminim/preader -Ilpng169/projects/vstudio/libpng -Ilpng169/projects/vstudio/pnglibconf -Ilpng169/projects/vstudio/pngstest -Ilpng169/projects/vstudio/pngtest -Ilpng169/projects/vstudio/pngunknown -Ilpng169/projects/vstudio/pngvalid -Ilpng169/projects/vstudio/zlib -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Index/Debug/macosx10.9-x86_64 -IEigen/src/Core/arch/AltiVec -IEigen/src/Core/arch/Default -IEigen/src/Core/arch/NEON -IEigen/src/Core/arch/SSE -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Index/Debug/macosx10.9-x86_64/Raytracer.xcindex -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/DerivedSources/x86_64 -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/DerivedSources -F/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Products/Debug -F/Library/Frameworks -MMD -MT dependencies -MF /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/StdDefs.d --serialize-diagnostics /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/StdDefs.dia -c /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/StdDefs.cpp -o /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/StdDefs.o36"A33409EE-6495-4805-8E5D-13029F378212-
+bDBD94B29-2640-4F8A-A0BE-0F66A0290855
+
+CCompileC Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/main.o /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s418089698.846883
+e418089700.413667
+r1
+xCompileC
+xRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/main.o
+x/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/Dense
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/Core
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/DisableStupidWarnings.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/Macros.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/Constants.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/ForwardDeclarations.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/Meta.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/XprHelper.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/StaticAssert.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/Memory.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/NumTraits.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/MathFunctions.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/GenericPacketMath.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/arch/SSE/PacketMath.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/arch/SSE/MathFunctions.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/arch/SSE/Complex.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/arch/Default/Settings.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Functors.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/DenseCoeffsBase.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/DenseBase.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/plugins/BlockMethods.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/MatrixBase.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/plugins/CommonCwiseUnaryOps.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/plugins/CommonCwiseBinaryOps.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/plugins/MatrixCwiseUnaryOps.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/plugins/MatrixCwiseBinaryOps.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/EigenBase.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Assign.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/BlasUtil.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/DenseStorage.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/NestByValue.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/ForceAlignedAccess.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/ReturnByValue.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/NoAlias.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/PlainObjectBase.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Matrix.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Array.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/CwiseBinaryOp.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/CwiseUnaryOp.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/CwiseNullaryOp.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/CwiseUnaryView.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/SelfCwiseBinaryOp.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Dot.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/StableNorm.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/MapBase.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Stride.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Map.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Block.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/VectorBlock.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Transpose.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/DiagonalMatrix.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Diagonal.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/DiagonalProduct.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/PermutationMatrix.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Transpositions.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Redux.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Visitor.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Fuzzy.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/IO.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Swap.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/CommaInitializer.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Flagged.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/ProductBase.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Product.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/TriangularMatrix.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/SelfAdjointView.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/SolveTriangular.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/Parallelizer.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/CoeffBasedProduct.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/GeneralBlockPanelKernel.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/GeneralMatrixVector.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/GeneralMatrixMatrix.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/GeneralMatrixMatrixTriangular.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/SelfadjointMatrixVector.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/SelfadjointMatrixMatrix.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/SelfadjointProduct.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/SelfadjointRank2Update.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/TriangularMatrixVector.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/TriangularMatrixMatrix.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/TriangularSolverMatrix.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/products/TriangularSolverVector.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/BandMatrix.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/BooleanRedux.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Select.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/VectorwiseOp.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Random.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Replicate.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/Reverse.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/ArrayBase.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/plugins/ArrayCwiseUnaryOps.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/plugins/ArrayCwiseBinaryOps.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/ArrayWrapper.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/GlobalFunctions.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Core/util/ReenableStupidWarnings.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/LU
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/misc/Solve.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/misc/Kernel.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/misc/Image.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/LU/FullPivLU.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/LU/PartialPivLU.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/LU/Determinant.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/LU/Inverse.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/LU/arch/Inverse_SSE.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/Cholesky
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Cholesky/LLT.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Cholesky/LDLT.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/QR
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/Jacobi
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Jacobi/Jacobi.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/Householder
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Householder/Householder.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Householder/HouseholderSequence.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Householder/BlockHouseholder.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/QR/HouseholderQR.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/QR/FullPivHouseholderQR.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/QR/ColPivHouseholderQR.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/SVD
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/SVD/JacobiSVD.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/SVD/UpperBidiagonalization.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/Geometry
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/OrthoMethods.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/EulerAngles.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/Homogeneous.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/RotationBase.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/Rotation2D.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/Quaternion.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/AngleAxis.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/Transform.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/Translation.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/Scaling.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/Hyperplane.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/ParametrizedLine.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/AlignedBox.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/Umeyama.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Geometry/arch/Geometry_SSE.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/Eigenvalues
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/Tridiagonalization.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/RealSchur.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/EigenvaluesCommon.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/HessenbergDecomposition.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/EigenSolver.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/SelfAdjointEigenSolver.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/GeneralizedSelfAdjointEigenSolver.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/ComplexSchur.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/ComplexEigenSolver.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Eigen/src/Eigenvalues/MatrixBaseEigenvalues.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Scene.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Timer.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Camera.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Color.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Ray.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/StdDefs.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Object.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/KDTree.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Primitive.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Box.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Shader.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Texture.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Triangle.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Light.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Image.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Texture2D.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Bump.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Normal.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/FlatShader.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Environment.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Phong.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Lambert.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Gooch.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/TexturePhong.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Plasma.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Perlin3D.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Cloud.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Mirror.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Sphere.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Plane.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Ellipsoid.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Cone.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/VCloud.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/PointLight.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/AreaLight.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/DirectionalLight.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/SpotLight.h
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Projection.h
+oIn file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:32:
+oIn file included from ./Parse.h:38:
+o./Cone.h:64:20: warning: expression result unused [-Wunused-value]
+o                float a = n.dot((0,0,-1) * n);
+o                                 ^
+o./Cone.h:65:24: warning: expression result unused [-Wunused-value]
+o                float b = 2 * P.dot((0,0,-1) * n);
+o                                     ^
+o./Cone.h:66:20: warning: expression result unused [-Wunused-value]
+o                float c = P.dot((0,0,-1) * P);
+o                                 ^
+o/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:352:58: warning: cast to 'void *' from smaller integer type 'int' [-Wint-to-void-pointer-cast]
+o                rc = pthread_create(&threads[current_t], NULL, render, (void*)args[current_t]);
+o                                                                       ^
+o/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:433:2: warning: 'glutInit' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutInit(&argc, argv);
+o        ^
+oIn file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:22:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:431:22: note: 'glutInit' declared here
+oextern void APIENTRY glutInit(int *argcp, char **argv) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:434:2: warning: 'glutInitWindowPosition' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutInitWindowPosition(100, 100); // Where the window will display on-screen.
+o        ^
+oIn file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:22:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:436:22: note: 'glutInitWindowPosition' declared here
+oextern void APIENTRY glutInitWindowPosition(int x, int y) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:435:2: warning: 'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutInitWindowSize(width, height);
+o        ^
+oIn file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:22:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:437:22: note: 'glutInitWindowSize' declared here
+oextern void APIENTRY glutInitWindowSize(int width, int height) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:436:2: warning: 'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutInitDisplayMode(GLUT_RGB | GLUT_SINGLE);
+o        ^
+oIn file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:22:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:432:22: note: 'glutInitDisplayMode' declared here
+oextern void APIENTRY glutInitDisplayMode(unsigned int mode) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:437:2: warning: 'glutCreateWindow' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutCreateWindow("Raytracer");
+o        ^
+oIn file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:22:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:441:21: note: 'glutCreateWindow' declared here
+oextern int APIENTRY glutCreateWindow(const char *title) OPENGL_DEPRECATED(10_0, 10_9);
+o                    ^
+o/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:439:2: warning: 'glutReshapeFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutReshapeFunc(windowResize);
+o        ^
+oIn file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:22:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:506:22: note: 'glutReshapeFunc' declared here
+oextern void APIENTRY glutReshapeFunc(void (*func)(int width, int height)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:440:2: warning: 'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutDisplayFunc(windowDisplay);
+o        ^
+oIn file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:22:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:505:22: note: 'glutDisplayFunc' declared here
+oextern void APIENTRY glutDisplayFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:441:2: warning: 'glutMouseFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutMouseFunc(processMouse);
+o        ^
+oIn file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:22:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:508:22: note: 'glutMouseFunc' declared here
+oextern void APIENTRY glutMouseFunc(void (*func)(int button, int state, int x, int y)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:442:2: warning: 'glutMainLoop' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutMainLoop();
+o        ^
+oIn file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:22:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:438:22: note: 'glutMainLoop' declared here
+oextern void APIENTRY glutMainLoop(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o13 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp205"CompileC Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/main.o main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler2cf5d8e28aebb841^5ce569e48aebb841^-6672"In file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:32:In file included from ./Parse.h:38:./Cone.h:64:20: warning: expression result unused [-Wunused-value]                float a = n.dot((0,0,-1) * n);                                 ^./Cone.h:65:24: warning: expression result unused [-Wunused-value]                float b = 2 * P.dot((0,0,-1) * n);                                     ^./Cone.h:66:20: warning: expression result unused [-Wunused-value]                float c = P.dot((0,0,-1) * P);                                 ^/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:352:58: warning: cast to 'void *' from smaller integer type 'int' [-Wint-to-void-pointer-cast]                rc = pthread_create(&threads[current_t], NULL, render, (void*)args[current_t]);                                                                       ^/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:433:2: warning: 'glutInit' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutInit(&argc, argv);        ^In file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:22:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:431:22: note: 'glutInit' declared hereextern void APIENTRY glutInit(int *argcp, char **argv) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:434:2: warning: 'glutInitWindowPosition' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutInitWindowPosition(100, 100); // Where the window will display on-screen.        ^In file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:22:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:436:22: note: 'glutInitWindowPosition' declared hereextern void APIENTRY glutInitWindowPosition(int x, int y) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:435:2: warning: 'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutInitWindowSize(width, height);        ^In file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:22:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:437:22: note: 'glutInitWindowSize' declared hereextern void APIENTRY glutInitWindowSize(int width, int height) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:436:2: warning: 'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutInitDisplayMode(GLUT_RGB | GLUT_SINGLE);        ^In file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:22:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:432:22: note: 'glutInitDisplayMode' declared hereextern void APIENTRY glutInitDisplayMode(unsigned int mode) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:437:2: warning: 'glutCreateWindow' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutCreateWindow("Raytracer");        ^In file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:22:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:441:21: note: 'glutCreateWindow' declared hereextern int APIENTRY glutCreateWindow(const char *title) OPENGL_DEPRECATED(10_0, 10_9);                    ^/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:439:2: warning: 'glutReshapeFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutReshapeFunc(windowResize);        ^In file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:22:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:506:22: note: 'glutReshapeFunc' declared hereextern void APIENTRY glutReshapeFunc(void (*func)(int width, int height)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:440:2: warning: 'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutDisplayFunc(windowDisplay);        ^In file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:22:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:505:22: note: 'glutDisplayFunc' declared hereextern void APIENTRY glutDisplayFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:441:2: warning: 'glutMouseFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutMouseFunc(processMouse);        ^In file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:22:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:508:22: note: 'glutMouseFunc' declared hereextern void APIENTRY glutMouseFunc(void (*func)(int button, int state, int x, int y)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:442:2: warning: 'glutMainLoop' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutMainLoop();        ^In file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:22:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:438:22: note: 'glutMainLoop' declared hereextern void APIENTRY glutMainLoop(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^13 warnings generated.13(36%IDEClangDiagnosticActivityLogMessage2@24"Expression result unused-418089700#18446744073709551615#0#2(2@92"In file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:32:-418089700#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@73"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp0000000000000000^31#9#31#9#990#0#21"Apple LLVM 5.0 Notice--2@35"In file included from ./Parse.h:38:-418089700#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@72"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.h0000000000000000^37#9#37#9#682#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@71"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Cone.h0000000000000000^63#19#63#19#1149#0#19"Unused Entity Issue1(3@71"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Cone.h0000000000000000^63#19#63#20#1149#0#-2@24"Expression result unused-418089700#18446744073709551615#0#2(2@92"In file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:32:-418089700#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@73"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp0000000000000000^31#9#31#9#990#0#21"Apple LLVM 5.0 Notice--2@35"In file included from ./Parse.h:38:-418089700#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@72"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.h0000000000000000^37#9#37#9#682#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@71"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Cone.h0000000000000000^64#23#64#23#1186#0#19"Unused Entity Issue1(3@71"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Cone.h0000000000000000^64#23#64#24#1186#0#-2@24"Expression result unused-418089700#18446744073709551615#0#2(2@92"In file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp:32:-418089700#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@73"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp0000000000000000^31#9#31#9#990#0#21"Apple LLVM 5.0 Notice--2@35"In file included from ./Parse.h:38:-418089700#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@72"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.h0000000000000000^37#9#37#9#682#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@71"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Cone.h0000000000000000^65#19#65#19#1219#0#19"Unused Entity Issue1(3@71"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Cone.h0000000000000000^65#19#65#20#1219#0#-2@48"Cast to 'void *' from smaller integer type 'int'-418089700#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@73"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp0000000000000000^351#57#351#57#8367#0#14"Semantic Issue--2@55"'glutInit' is deprecated: first deprecated in OS X 10.9-418089700#18446744073709551615#0#1(2@24"'glutInit' declared here-418089700#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^430#21#430#21#12845#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@73"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp0000000000000000^432#1#432#1#10584#0#12"Deprecations--2@69"'glutInitWindowPosition' is deprecated: first deprecated in OS X 10.9-418089700#18446744073709551615#0#1(2@38"'glutInitWindowPosition' declared here-418089700#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^435#21#435#21#13184#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@73"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp0000000000000000^433#1#433#1#10608#0#12"Deprecations--2@65"'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9-418089700#18446744073709551615#0#1(2@34"'glutInitWindowSize' declared here-418089700#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^436#21#436#21#13273#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@73"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp0000000000000000^434#1#434#1#10687#0#12"Deprecations--2@66"'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9-418089700#18446744073709551615#0#1(2@35"'glutInitDisplayMode' declared here-418089700#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^431#21#431#21#12931#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@73"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp0000000000000000^435#1#435#1#10723#0#12"Deprecations--2@63"'glutCreateWindow' is deprecated: first deprecated in OS X 10.9-418089700#18446744073709551615#0#1(2@32"'glutCreateWindow' declared here-418089700#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^440#20#440#20#13465#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@73"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp0000000000000000^436#1#436#1#10769#0#12"Deprecations--2@62"'glutReshapeFunc' is deprecated: first deprecated in OS X 10.9-418089700#18446744073709551615#0#1(2@31"'glutReshapeFunc' declared here-418089700#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^505#21#505#21#17562#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@73"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp0000000000000000^438#1#438#1#10810#0#12"Deprecations--2@62"'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9-418089700#18446744073709551615#0#1(2@31"'glutDisplayFunc' declared here-418089700#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^504#21#504#21#17474#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@73"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp0000000000000000^439#1#439#1#10842#0#12"Deprecations--2@60"'glutMouseFunc' is deprecated: first deprecated in OS X 10.9-418089700#18446744073709551615#0#1(2@29"'glutMouseFunc' declared here-418089700#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^507#21#507#21#17783#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@73"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp0000000000000000^440#1#440#1#10875#0#12"Deprecations--2@59"'glutMainLoop' is deprecated: first deprecated in OS X 10.9-418089700#18446744073709551615#0#1(2@28"'glutMainLoop' declared here-418089700#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^437#21#437#21#13367#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@73"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp0000000000000000^441#1#441#1#10905#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@73"file:///Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp0000000000000000^5438"CompileC Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/main.o main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Raytracer-generated-files.hmap -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Raytracer-own-target-headers.hmap -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Raytracer-all-target-headers.hmap -iquote /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Raytracer-project-headers.hmap -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Products/Debug/include -I. -IEigen -Ilpng169 -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc -IEigen/src -Ilpng169/contrib -Ilpng169/projects -Ilpng169/scripts -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Index -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs -IEigen/src/Cholesky -IEigen/src/Core -IEigen/src/Eigen2Support -IEigen/src/Eigenvalues -IEigen/src/Geometry -IEigen/src/Householder -IEigen/src/Jacobi -IEigen/src/LU -IEigen/src/misc -IEigen/src/plugins -IEigen/src/QR -IEigen/src/Sparse -IEigen/src/StlSupport -IEigen/src/SVD -Ilpng169/contrib/conftest -Ilpng169/contrib/examples -Ilpng169/contrib/gregbook -Ilpng169/contrib/libtests -Ilpng169/contrib/pngminim -Ilpng169/contrib/pngminus -Ilpng169/contrib/pngsuite -Ilpng169/contrib/tools -Ilpng169/contrib/visupng -Ilpng169/projects/owatcom -Ilpng169/projects/visualc71 -Ilpng169/projects/vstudio -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Index/Debug -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Build -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Debug -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/GPUDebuggerLog -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Install -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Issues -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/SCM -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Logs/Test -IEigen/src/Core/arch -IEigen/src/Core/products -IEigen/src/Core/util -IEigen/src/Eigen2Support/Geometry -IEigen/src/Geometry/arch -IEigen/src/LU/arch -Ilpng169/contrib/pngminim/decoder -Ilpng169/contrib/pngminim/encoder -Ilpng169/contrib/pngminim/preader -Ilpng169/projects/vstudio/libpng -Ilpng169/projects/vstudio/pnglibconf -Ilpng169/projects/vstudio/pngstest -Ilpng169/projects/vstudio/pngtest -Ilpng169/projects/vstudio/pngunknown -Ilpng169/projects/vstudio/pngvalid -Ilpng169/projects/vstudio/zlib -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Index/Debug/macosx10.9-x86_64 -IEigen/src/Core/arch/AltiVec -IEigen/src/Core/arch/Default -IEigen/src/Core/arch/NEON -IEigen/src/Core/arch/SSE -IRaytracer-dbtmapmywxzwaqcffkztkyubjcsc/Index/Debug/macosx10.9-x86_64/Raytracer.xcindex -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/DerivedSources/x86_64 -I/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/DerivedSources -F/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Products/Debug -F/Library/Frameworks -MMD -MT dependencies -MF /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/main.dia -c /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/main.cpp -o /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/main.o36"6957EF4D-695E-466A-9B48-571ED90D35AA-
+bDBD94B29-2640-4F8A-A0BE-0F66A0290855
+
+CLd /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Products/Debug/Raytracer normal x86_64
+s418089701.018069
+e418089701.058497
+r1
+xLd
+x/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Products/Debug/Raytracer
+xnormal
+xx86_64
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Raytracer.LinkFileList
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/main.o
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Color.o
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Parse.o
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/KDTree.o
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/StdDefs.o
+d/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Image.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libpthread.dylib
+d/Library/Frameworks/libpng15.framework/libpng15
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/GLUT
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Link /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Products/Debug/Raytracer86"Ld Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Products/Debug/Raytracer normal x86_6454aa04e58aebb841^51fa0ee58aebb841^---0#0#1#--1349"Ld Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Products/Debug/Raytracer normal x86_64    cd /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Products/Debug -F/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Products/Debug -F/Library/Frameworks -filelist /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Raytracer.LinkFileList -mmacosx-version-min=10.9 -lpthread -framework libpng15 -framework OpenGL -framework GLUT -Xlinker -dependency_info -Xlinker /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Intermediates/Raytracer.build/Debug/Raytracer.build/Objects-normal/x86_64/Raytracer_dependency_info.dat -o /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Raytracer-dbtmapmywxzwaqcffkztkyubjcsc/Build/Products/Debug/Raytracer36"E40A2690-ABBF-405A-B98A-91B57C3FFCD2-
+bDBD94B29-2640-4F8A-A0BE-0F66A0290855
+

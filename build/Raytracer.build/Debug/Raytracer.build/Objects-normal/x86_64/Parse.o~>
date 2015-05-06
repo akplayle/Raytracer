@@ -1,0 +1,10 @@
+In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/fstream.h:31,
+                 from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Object.h:12,
+                 from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Scene.h:20,
+                 from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.h:14,
+                 from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.cpp:10:
+/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.
+In file included from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.h:28,
+                 from /Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/Parse.cpp:10:
+/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/TexturePhong.h: In member function 'virtual color TexturePhong::Shade(Ray&)':
+/Users/Amber/Documents/College_Classes/VIZA_656/Raytracer/TexturePhong.h:75: warning: unused variable 'distance'
